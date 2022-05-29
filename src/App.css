@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.tdlist, .accomp{
+  max-width: 50%;
+  color: pink;
+}
+
+.todo-accomplishments{
+  display: flex;
+  justify-content: space-around;
+}
+
+.removeBullets{
+  list-style-type:none;
+}
